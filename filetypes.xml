@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="Test" type="Python" />
+      <mapping pattern="练习" type="Python" />
+      <mapping pattern="test1" type="Python" />
+      <mapping pattern="练习6" type="Python" />
+      <mapping pattern="练习5" type="Python" />
+      <mapping pattern="练习4" type="Python" />
+      <mapping pattern="练习3" type="Python" />
+      <mapping pattern="练习2" type="Python" />
+      <mapping pattern="Test3" type="Python" />
+      <mapping pattern="Testing" type="Python" />
+    </extensionMap>
+  </component>
+</application>
